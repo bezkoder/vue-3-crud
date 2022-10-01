@@ -88,7 +88,7 @@ export default {
         .then(response => {
           console.log(response.data);
           this.currentTutorial.published = status;
-          this.message = 'The status was updated successfully!';
+          this.message = 'Le statut a été mis à jour correctement';
         })
         .catch(e => {
           console.log(e);
