@@ -14,11 +14,8 @@ Typescript version:
 
 More Practice:
 > [Vue 2 CRUD App with Vue Router & Axios](https://bezkoder.com/vue-js-crud-app/)
-
 > [Vue Pagination with Axios and API example](https://bezkoder.com/vue-pagination-axios/)
-
 > [Vue.js JWT Authentication with Vuex and Vue Router](https://bezkoder.com/jwt-vue-vuex-authentication/)
-
 > [Vue File Upload example using Axios](https://bezkoder.com/vue-axios-file-upload/)
 
 Fullstack with Node.js Express:
