@@ -10,7 +10,7 @@ For instruction, please visit:
 > [Vue 3 CRUD example with Axios & Vue Router](https://bezkoder.com/vue-3-crud/)
 
 
-To get started with this project, follow these steps:
+TO GET STARTED WITH THIS PROJECT, FOLLOW THESE STEPS:
 
 1. Clone the repository to your local machine.
 2. Install project dependencies
