@@ -9,6 +9,13 @@ Build a Vue.js 3 CRUD example to consume REST APIs, display and modify data usin
 For instruction, please visit:
 > [Vue 3 CRUD example with Axios & Vue Router](https://bezkoder.com/vue-3-crud/)
 
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install project dependencies
+
+
 Typescript version:
 > [Vue 3 Typescript example with Axios: Build CRUD App](https://bezkoder.com/vue-3-typescript-axios/)
 
